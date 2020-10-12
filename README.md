@@ -1,1 +1,3 @@
-# GameEngineCourse
+# 作业说明
+- 一个开车射击小游戏，玩家开车同时射击外星人，外星人会被射出的子弹击飞，包含载具，布娃娃等要素。
+- 作业基于课程资源完成，利用了给出的vehicle场景与插件。自己编写与导入的资源存放在- IMDT\Assets\IMDT\COURSE\Homework中。
